@@ -7,7 +7,7 @@ const SingleResume = ({ element }) => {
       <h3 className="st-resume-timeline-title">{title}</h3>
       <div className="st-resume-timeline-duration">{duration}</div>
       <h4 className="st-resume-timeline-subtitle">{subTitle}</h4>
-      <div className="st-resume-timeline-text"><p>{text}</p></div>
+      {/* <div className="st-resume-timeline-text"><p>{text}</p></div> */}
     </div>
   )
 }

@@ -7,35 +7,31 @@
     "designation": "Software Developer"
   },
   "aboutData": {
-    "imgLink": "/images/section/about.jpg",
+    "imgLink": "/images/section/about.svg",
     "cvPdf": "/images/Resume.pdf",
-    "title": "Hi There! I'm Edward Davis",
-    "subtitle": "Visual Designer",
-    "text": "I am a Visual Designer with a strong focus on digital branding. Visul design seeks to attract, inspire, create desires and otivate people to respond to messages, with a view to making a favorable impact.",
+    "title": "Hi There! I'm Shubham Kumar",
+    "subtitle": "Software Developer",
+    "text": "I am a skilled front-end developer with 3 years of experience designing, building, and maintaining front-end web applications. I have successfully achieved a 20% improvement in page load speed, leading to increased website conversion rates. By overseeing the adoption of a new front-end development system, I contributed to a 20% improvement in website performance and a 15% reduction in development time. I consistently deliver projects on schedule and within budget while collaborating effectively with cross-functional teams",
     "details": [
       {
         "title": "Birthday",
-        "info": "May 07, 1990"
+        "info": "April 01, 1997"
       },
       {
         "title": "Phone",
-        "info": "+1 876-369-9009"
+        "info": "+91 97713 94656"
       },
       {
         "title": "Email",
-        "info": "devis@example.com"
+        "info": "shubhamcareer4656@gmail.com"
       },
       {
         "title": "From",
-        "info": "2661 Hich meadow lane bear creek"
+        "info": "Bengaluru"
       },
       {
         "title": "Language",
-        "info": "English, Germanic"
-      },
-      {
-        "title": "Freelance",
-        "info": "Available"
+        "info": "English, Hindi"
       },
       {
         "title": "Freelance",
@@ -47,48 +43,48 @@
     "services": [
       {
         "imgLink": "/images/icon/icon1.png",
-        "title": "Sketches",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "WEBSITE DESIGN",
+        "text": "Web design and development technology has evolved significantly over the years. Today, building a successful website requires a diverse set of tools and expertise to create effective and engaging digital experiences.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "200"
       },
       {
         "imgLink": "/images/icon/icon2.png",
-        "title": "UI/UX Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "MOBILE APPS",
+        "text": "App development is crucial for companies to remain relevant across various devices. To facilitate seamless customer interactions, businesses should invest in creating user-friendly, high-quality apps that enable easy connectivity through multiple devices.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "300"
       },
       {
         "imgLink": "/images/icon/icon3.png",
-        "title": "Product Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "E-COMMERCE",
+        "text": "Are you searching the web? If you're eager to take the next step, now is the perfect time to find an e-commerce website development company and get a personalized website tailored to your needs.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "400"
       },
       {
         "imgLink": "/images/icon/icon4.png",
-        "title": "App Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "RESPONSIVE DESIGN",
+        "text": "Do you truly understand what responsive design is? Nearly every new client now requests a mobile-friendly version of their website. With the increasing number of mobile users worldwide, having a responsive design has become essential and highly practical.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "500"
       },
       {
         "imgLink": "/images/icon/icon5.png",
-        "title": "Motion Graphics",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "CMS",
+        "text": "With the world moving towards social, mobile, and cloud platforms, your business needs a powerful content management system. Platforms like WordPress, Shopify, and Magento are now vital for managing a strong online presence. They form the backbone of modern business brands worldwide.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "600"
       },
       {
         "imgLink": "/images/icon/icon6.png",
-        "title": "Responsive Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "CRM DEVELOPMENT",
+        "text": "What is CRM development and why is it crucial for businesses? CRM applications are essential tools for building customer relationships by centralizing and managing various records in one place. This centralized approach helps businesses maintain organized and effective customer interactions.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "700"
@@ -97,49 +93,71 @@
   },
   "skillData": {
     "title": "All the skills that I have in that field of work are mentioned.",
-    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.",
+    "text": "As a skilled front-end developer with 3 years of experience, I specialize in designing, building, and maintaining high-performance web applications. My work has led to a 20% improvement in page load speed and a significant boost in website conversion rates. I successfully managed the adoption of a new development system, resulting in a 20% enhancement in website performance and a 15% reduction in development time. My ability to deliver projects on time and within budget, while collaborating effectively with cross-functional teams, demonstrates my commitment to excellence in front-end development.",
     "skills": [
       {
-        "title": "Photoshop",
+        "title": "HTML",
         "progress": "95%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "200"
       },
       {
-        "title": "Motion Graphic",
-        "progress": "75%",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
-        "title": "Adobe XD",
+        "title": "CSS",
         "progress": "90%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "400"
       },
       {
-        "title": "UX Design",
+        "title": "JAVASCRIPT",
         "progress": "85%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "500"
       },
       {
-        "title": "HTML",
+        "title": "BOOTSTRAP",
         "progress": "80%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "600"
       },
       {
-        "title": "Digital Marketing",
+        "title": "WORDPRESS",
         "progress": "90%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "700"
+      }
+      ,
+      {
+        "title": "ANGULAR",
+        "progress": "80%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "title": "REACT",
+        "progress": "80%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "title": "NODE JS",
+        "progress": "50%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      } ,
+      {
+        "title": "DEVOPS",
+        "progress": "70%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
       }
     ]
   },
@@ -148,8 +166,8 @@
       {
         "imgLink": "/images/portfolio/portfolio1.jpg",
         "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "E-Commerce",
+        "subTitle": "E-Commerce",
         "effect": "fade-up",
         "duration": "500",
         "delay": "200"
@@ -492,21 +510,15 @@
     "experienceTitle": "Experience",
     "experience": [
       {
-        "title": "Senior UX/UI Designer",
-        "duration": "Jan 2020 - Present",
-        "subTitle": "Bergnaum, Hills and Howe",
+        "title": "Software Development Engineer - 1",
+        "duration": "OCT 2021 - Present",
+        "subTitle": "Bengaluru(Karnataka )",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
       },
       {
-        "title": "Product Designer",
-        "duration": "Jan 2016 - December 2019",
-        "subTitle": "Langosh, Sipes and Raynor",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
-      },
-      {
-        "title": "UI/UX Designer",
-        "duration": "Jan 2014 - December 2015",
-        "subTitle": "Strosin, Maggio and Homenick",
+        "title": "Website Developer",
+        "duration": "Jan 2018 - December 2019",
+        "subTitle": "Patna(Bihar)",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
       }
     ],
@@ -514,20 +526,14 @@
     "education": [
       {
         "title": "Master of Computer Science",
-        "duration": "2015 - 2016",
-        "subTitle": "University of XYZ",
+        "duration": "2020 - 2022",
+        "subTitle": "Kongu Engineering College",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
       },
       {
         "title": "Bachelor of Computer Science",
-        "duration": "2010 - 2014",
-        "subTitle": "University of ABC",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
-      },
-      {
-        "title": "Diploma in Computer Science",
-        "duration": "2006 - 2010",
-        "subTitle": "XYZ Institution",
+        "duration": "2015 - 2018",
+        "subTitle": "Cybotech Campus",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
       }
     ]
@@ -539,25 +545,16 @@
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla tincidunt id faucibus sed suscipit feugiat."
   },
   "socialData": [
+   
     {
-      "icon": "dribbble",
-      "title": "Dribbble",
-      "link": "/"
-    },
-    {
-      "icon": "behance",
-      "title": "Behance",
-      "link": "/"
-    },
-    {
-      "icon": "twitter",
-      "title": "Twitter",
-      "link": "/"
+      "icon": "github",
+      "title": "Github",
+      "link": "https://github.com/techonline-dev"
     },
     {
       "icon": "linkedin",
       "title": "LinkedIn",
-      "link": "/"
+      "link": "https://www.linkedin.com/in/barnwal56/"
     }
   ]
 }
