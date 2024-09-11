@@ -10,10 +10,10 @@ const SingleReview = ({element}) => {
         <div className="st-quote"><img src="/images/icon/quote.png" alt="quote" /></div>
       </div>
       <div className="st-testimonial-info">
-        <div className="st-testimonial-img"><img src={imgLink} alt="client1" /></div>
+        {/* <div className="st-testimonial-img"><img src={imgLink} alt="client1" /></div> */}
         <div className="st-testimonial-meta">
-          <h4 className="st-testimonial-name">{title}</h4>
-          <div className="st-testimonial-designation">{designation}</div>
+          {/* <h4 className="st-testimonial-name">{title}</h4> */}
+          {/* <div className="st-testimonial-designation">{designation}</div> */}
         </div>
       </div>
     </div>

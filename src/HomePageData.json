@@ -472,37 +472,25 @@
         "imgLink": "/images/client/client1.png",
         "title": "Richard Miles",
         "designation": "Chairman",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "text": "I had the pleasure of working with Shubham on a recent project, and I couldn't be happier with the results. Their attention to detail, technical expertise, and timely communication exceeded my expectations. [Freelancer's Name] was proactive in addressing issues and offered valuable suggestions to improve the project. I highly recommend them for any complex and high-stakes work"
       },
       {
         "imgLink": "/images/client/client2.png",
         "title": "Vesta Shufelt",
         "designation": "Executive Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "text": " Working with Shubham was a fantastic experience. They were professional, reliable, and delivered high-quality work on time. Their ability to understand and implement requirements was impressive, and they provided regular updates throughout the project. I would definitely work with Shubham again and recommend them to others looking for a dedicated freelancer!"
       },
       {
         "imgLink": "/images/client/client3.png",
         "title": "Joseph Alves",
         "designation": "Managing Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "text": "I hired Shubham for a project that required both technical skills and creative problem-solving. They delivered exceptional results, showing great skill and creativity. Shubham was always open to feedback and made revisions promptly. Their work added significant value to our project, and I am very satisfied with their contributions"
       },
       {
         "imgLink": "/images/client/client1.png",
         "title": "Richard Miles",
         "designation": "Chairman",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
-      },
-      {
-        "imgLink": "/images/client/client2.png",
-        "title": "Vesta Shufelt",
-        "designation": "Executive Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
-      },
-      {
-        "imgLink": "/images/client/client3.png",
-        "title": "Joseph Alves",
-        "designation": "Managing Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "text": "I had a positive experience working with Shubham. They offered great value for money by delivering high-quality work within budget and on time. Shubham was easy to communicate with and took the time to understand my requirements thoroughly. I would recommend them for anyone seeking a freelancer who provides excellent service at a reasonable price."
       }
     ]
   },
@@ -555,6 +543,12 @@
       "icon": "linkedin",
       "title": "LinkedIn",
       "link": "https://www.linkedin.com/in/barnwal56/"
+    }
+    ,
+    {
+      "icon": "skype",
+      "title": "Skype",
+      "link": "live:shhubham_2/"
     }
   ]
 }
